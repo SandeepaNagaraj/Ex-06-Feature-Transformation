@@ -94,7 +94,39 @@ plt.show()
 ``` 
 
 # OUPUT
-### Feature Transformation - Data_to_Transform.csv
+### Dataset:
+
+### Head:
+
+### Null data:
+
+### Information:
+
+### Description:
+
+### Highly Positive Skew:
+
+### Highly Negative Skew:
+
+### Moderate Positive Skew:
+
+### Moderate Negative Skew:
+
+### Log of Highly Positive Skew:
+
+### Log of Moderate Positive Skew:
+
+### Reciprocal of Highly Positive Skew:
+
+### Square root tranformation:
+
+### Power transformation of Moderate Positive Skew:
+
+### Power transformation of Moderate Negative Skew:
+
+### Quantile transformation:
+
+
 # Result
 Thus, Feature transformation is performed and executed successfully for the given dataset
 
