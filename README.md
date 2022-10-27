@@ -95,37 +95,37 @@ plt.show()
 
 # OUPUT
 ### Dataset:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/1.png)
 ### Head:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/2.png)
 ### Null data:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/3.png)
 ### Information:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/4.png)
 ### Description:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/5.png)
 ### Highly Positive Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/6.png)
 ### Highly Negative Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/7.png)
 ### Moderate Positive Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/8.png)
 ### Moderate Negative Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/9.png)
 ### Log of Highly Positive Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/10.png)
 ### Log of Moderate Positive Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/11.png)
 ### Reciprocal of Highly Positive Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/12.png)
 ### Square root tranformation:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/13.png)
 ### Power transformation of Moderate Positive Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/14.png)
 ### Power transformation of Moderate Negative Skew:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/15.png)
 ### Quantile transformation:
-
+![o](https://github.com/SandeepaNagaraj/Ex-06-Feature-Transformation/blob/main/16.png)
 
 # Result
 Thus, Feature transformation is performed and executed successfully for the given dataset
